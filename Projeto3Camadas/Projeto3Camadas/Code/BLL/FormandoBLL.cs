@@ -12,11 +12,11 @@ namespace Projeto3Camadas.Code.BLL
     class FormandoBLL
     {
         AcessoBancoDados conexao = new AcessoBancoDados();
-        string tabela = "tbl_nome";
+        string tabela = "tbl_formando";
 
         public void Inserir (FormandoDTO forDto)
         {
-            string inserir = $"insert into {tabela} values (null, '{forDto.Nome}','{forDto.Local}') ";
+            string inserir = $"insert into {tabela} values (null, '{forDto.Nome}','{forDto.Cpf}', '{forDto.Local}') ";
             conexao.ExecutarComando(inserir);
         }
 

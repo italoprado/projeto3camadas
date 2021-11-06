@@ -1,0 +1,9 @@
+CREATE DATABASE bd_formandos;
+USE bd_formandos;
+
+CREATE TABLE tbl_formando(
+id int auto_increment not null primary key,
+nome varchar(40) not null,
+cpf varchar(11) not null,
+lugar varchar(200) not null
+);
