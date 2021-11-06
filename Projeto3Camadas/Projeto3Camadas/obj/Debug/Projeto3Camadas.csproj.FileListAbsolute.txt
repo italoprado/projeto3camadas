@@ -1,0 +1,10 @@
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe.config
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.pdb
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csprojAssemblyReference.cache
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Properties.Resources.resources
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.GenerateResource.cache
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.CoreCompileInputs.cache
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.exe
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.pdb
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Form1.resources
