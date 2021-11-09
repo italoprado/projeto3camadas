@@ -97,6 +97,7 @@ namespace Projeto3Camadas
             this.dgvFormandos.Name = "dgvFormandos";
             this.dgvFormandos.Size = new System.Drawing.Size(637, 239);
             this.dgvFormandos.TabIndex = 6;
+            this.dgvFormandos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvFormandos_CellContentClick);
             // 
             // btnCadastrar
             // 
@@ -145,6 +146,7 @@ namespace Projeto3Camadas
             this.Controls.Add(this.lblNome);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvFormandos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

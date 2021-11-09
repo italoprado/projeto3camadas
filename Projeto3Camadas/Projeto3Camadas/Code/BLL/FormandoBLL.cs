@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using Projeto3Camadas.Code.DTO;
 using Projeto3Camadas.Code.DAL;
+using System.Data;
 
 namespace Projeto3Camadas.Code.BLL
 {
@@ -20,19 +21,22 @@ namespace Projeto3Camadas.Code.BLL
             conexao.ExecutarComando(inserir);
         }
 
-        private void Editar(FormandoDTO forDto)
+        public void Editar(FormandoDTO forDto)
         {
-
+            string alterar = $"update {tabela} set nome = '{forDto.Nome}', lugar = '{forDto.Local}' where cpf = '{forDto.Cpf}';";
+            conexao.ExecutarComando(alterar);
         }
 
-        private void Excluir(FormandoDTO forDto)
+        public void Excluir(FormandoDTO forDto)
         {
-
+            string excluir = $"delete from {tabela} where cpf = '{forDto.Cpf}';";
+            conexao.ExecutarComando(excluir);
         }
 
-        private void Listar()
+        public DataTable Listar()
         {
-
+            string sql = $"select * from {tabela} order by id;";
+            return conexao.ExecutarConsulta(sql);
         }
     }
 }
