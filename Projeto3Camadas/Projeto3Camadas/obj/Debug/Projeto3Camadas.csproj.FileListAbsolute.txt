@@ -8,3 +8,17 @@ E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3
 E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.exe
 E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.pdb
 E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Form1.resources
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\MySqlConnector.dll
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\System.Buffers.dll
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\System.Memory.dll
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\System.Numerics.Vectors.dll
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\MySqlConnector.xml
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\System.Buffers.xml
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\System.Memory.xml
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\System.Numerics.Vectors.xml
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Ui.Frm_Login.resources
+E:\Escola\POO\projeto3camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.CopyComplete
